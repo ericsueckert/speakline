@@ -1,0 +1,242 @@
+TSpeakLine
+v7
+r0
+t330919947.227968
+cCheck dependencies
+cProcessInfoPlistFile /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist SpeakLine-Info.plist
+cCopyStringsFile /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/eric/Documents/SpeakLine/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/z3/z32Op8kWEaCTu083Vr+OoU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SpeakLine_Prefix-cpbyrwjgcaucmpgogtbkolkqywko/SpeakLine_Prefix.pch.gch SpeakLine_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o /Users/eric/Documents/SpeakLine/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o /Users/eric/Documents/SpeakLine/SpeakLineAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o /Users/eric/Documents/SpeakLine/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004C241F77000000000000A5E0
+t1277435767
+s42464
+
+N/Users/eric/Documents/SpeakLine/AppController.h
+c000000004E05427400000000000001C8
+t1308967540
+s456
+i<Cocoa/Cocoa.h>
+
+N/Users/eric/Documents/SpeakLine/AppController.m
+c000000004E093F7D000000000000058C
+t1309228925
+s1420
+i"AppController.h"
+
+N/Users/eric/Documents/SpeakLine/English.lproj/InfoPlist.strings
+c000000004E02BCD8000000000000002D
+t1308802264
+s45
+
+N/Users/eric/Documents/SpeakLine/English.lproj/MainMenu.xib
+c000000004E0545B40000000000032F6D
+t1308968372
+s208749
+
+N/Users/eric/Documents/SpeakLine/SpeakLineAppDelegate.h
+c000000004E02BCD80000000000000139
+t1308802264
+s313
+i<Cocoa/Cocoa.h>
+
+N/Users/eric/Documents/SpeakLine/SpeakLineAppDelegate.m
+c000000004E02BCD80000000000000170
+t1308802264
+s368
+i"SpeakLineAppDelegate.h"
+
+N/Users/eric/Documents/SpeakLine/SpeakLine_Prefix.pch
+c000000004E02BCD80000000000000095
+t1308802264
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app
+t1308805179
+s102
+
+N/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist
+t1308805139
+s892
+
+N/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine
+t1308805179
+s16064
+
+N/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/PkgInfo
+t1308805139
+s8
+
+N/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1308805139
+s92
+
+N/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/MainMenu.nib
+t1309227140
+s40342
+
+N/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o
+t2
+s0
+
+N/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLine.LinkFileList
+c000000004E02C8130000000000000154
+t1308805139
+s340
+
+N/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o
+t1308805144
+s21136
+
+N/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o
+t1308805144
+s4976
+
+N/Users/eric/Documents/SpeakLine/main.m
+c000000004E02BCD800000000000000F7
+t1308802264
+s247
+i<Cocoa/Cocoa.h>
+
+N/var/folders/z3/z32Op8kWEaCTu083Vr+OoU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SpeakLine_Prefix-cpbyrwjgcaucmpgogtbkolkqywko/SpeakLine_Prefix.pch.gch
+t1308805144
+s54306576
+
+NSpeakLine-Info.plist
+c000000004E02BCD800000000000003EA
+t1308802264
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330919937#330919937#0(0"0(0#1#0"8647357088#0"0#
+
+CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o /Users/eric/Documents/SpeakLine/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330919940.350790
+e330919947.227839
+r0
+xCompileC
+xbuild/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o
+x/Users/eric/Documents/SpeakLine/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/eric/Documents/SpeakLine/AppController.m: In function '-[AppController init]':
+o/Users/eric/Documents/SpeakLine/AppController.m:21: warning: class 'AppController' does not implement the 'NSSpeechSynthesizerDelegate' protocol
+o/Users/eric/Documents/SpeakLine/AppController.m: In function '-[AppController tableView:objectValueForTableColumn:row:]':
+o/Users/eric/Documents/SpeakLine/AppController.m:58: error: 'v' undeclared (first use in this function)
+o/Users/eric/Documents/SpeakLine/AppController.m:58: error: (Each undeclared identifier is reported only once
+o/Users/eric/Documents/SpeakLine/AppController.m:58: error: for each function it appears in.)
+o/Users/eric/Documents/SpeakLine/AppController.m:57: warning: unused variable 'V'
+o/Users/eric/Documents/SpeakLine/AppController.m:59: warning: control reaches end of non-void function
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+lSLF07#2@55"Compile /Users/eric/Documents/SpeakLine/AppController.m330919940#330919947#0(1615"/Users/eric/Documents/SpeakLine/AppController.m: In function '-[AppController init]':/Users/eric/Documents/SpeakLine/AppController.m:21: warning: class 'AppController' does not implement the 'NSSpeechSynthesizerDelegate' protocol/Users/eric/Documents/SpeakLine/AppController.m: In function '-[AppController tableView:objectValueForTableColumn:row:]':/Users/eric/Documents/SpeakLine/AppController.m:58: error: 'v' undeclared (first use in this function)/Users/eric/Documents/SpeakLine/AppController.m:58: error: (Each undeclared identifier is reported only once/Users/eric/Documents/SpeakLine/AppController.m:58: error: for each function it appears in.)/Users/eric/Documents/SpeakLine/AppController.m:57: warning: unused variable 'V'/Users/eric/Documents/SpeakLine/AppController.m:59: warning: control reaches end of non-void function{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_74(22@83"Class 'AppController' does not implement the 'NSSpeechSynthesizerDelegate' protocol330919944#86#145#0(6@47"/Users/eric/Documents/SpeakLine/AppController.m330669744#21#0#21#0#45"class '*' does not implement the '*' protocol0(4@43"'v' undeclared (first use in this function)330919945#353#103#0(6@47"/Users/eric/Documents/SpeakLine/AppController.m330669744#58#0#58#0#43"'*' undeclared (first use in this function)0(22@19"Unused variable 'V'330919945#658#81#0(6@47"/Users/eric/Documents/SpeakLine/AppController.m330669744#57#0#57#0#19"unused variable '*'0(22@40"Control reaches end of non-void function330919945#739#102#0(6@47"/Users/eric/Documents/SpeakLine/AppController.m330669744#59#0#59#0#40"control reaches end of non-void function0(0#0#47"/Users/eric/Documents/SpeakLine/AppController.m8653845376#1431"    cd /Users/eric/Documents/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/eric/Documents/SpeakLine/build/Debug -I/Users/eric/Documents/SpeakLine/build/Debug/include -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/z3/z32Op8kWEaCTu083Vr+OoU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SpeakLine_Prefix-cpbyrwjgcaucmpgogtbkolkqywko/SpeakLine_Prefix.pch -c /Users/eric/Documents/SpeakLine/AppController.m -o /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o1#
+
+CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o /Users/eric/Documents/SpeakLine/SpeakLineAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330497944.450071
+e330497944.689555
+r1
+xCompileC
+xbuild/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o
+x/Users/eric/Documents/SpeakLine/SpeakLineAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/eric/Documents/SpeakLine/SpeakLineAppDelegate.m330497944#330497944#0(0"0(0#0#54"/Users/eric/Documents/SpeakLine/SpeakLineAppDelegate.m8626566400#1445"    cd /Users/eric/Documents/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/eric/Documents/SpeakLine/build/Debug -I/Users/eric/Documents/SpeakLine/build/Debug/include -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/z3/z32Op8kWEaCTu083Vr+OoU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SpeakLine_Prefix-cpbyrwjgcaucmpgogtbkolkqywko/SpeakLine_Prefix.pch -c /Users/eric/Documents/SpeakLine/SpeakLineAppDelegate.m -o /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o0#
+
+CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o /Users/eric/Documents/SpeakLine/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330497944.448830
+e330497944.651615
+r1
+xCompileC
+xbuild/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o
+x/Users/eric/Documents/SpeakLine/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/eric/Documents/SpeakLine/main.m330497944#330497944#0(0"0(0#0#38"/Users/eric/Documents/SpeakLine/main.m8638366112#1413"    cd /Users/eric/Documents/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/eric/Documents/SpeakLine/build/Debug -I/Users/eric/Documents/SpeakLine/build/Debug/include -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/z3/z32Op8kWEaCTu083Vr+OoU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SpeakLine_Prefix-cpbyrwjgcaucmpgogtbkolkqywko/SpeakLine_Prefix.pch -c /Users/eric/Documents/SpeakLine/main.m -o /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/eric/Documents/SpeakLine/English.lproj/MainMenu.xib
+s330919937.683203
+e330919940.325858
+r1
+xCompileXIB
+x/Users/eric/Documents/SpeakLine/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib330919937#330919940#0(0"0(0#0#58"/Users/eric/Documents/SpeakLine/English.lproj/MainMenu.xib8654848224#345"    cd /Users/eric/Documents/SpeakLine    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/MainMenu.nib /Users/eric/Documents/SpeakLine/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s330497939.672802
+e330497939.936718
+r1
+xCopyStringsFile
+x/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings330497939#330497939#0(0"0(0#0#63"/Users/eric/Documents/SpeakLine/English.lproj/InfoPlist.strings8653679232#353"    cd /Users/eric/Documents/SpeakLine    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj0#
+
+CLd /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine normal x86_64
+s330497978.465094
+e330497979.139001
+r1
+xLd
+x/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine
+xnormal
+xx86_64
+lSLF07#2@87"Link /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine330497978#330497979#0(0"0(0#0#0"8648829920#517"    cd /Users/eric/Documents/SpeakLine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/eric/Documents/SpeakLine/build/Debug -F/Users/eric/Documents/SpeakLine/build/Debug -filelist /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLine.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine0#
+
+CProcessInfoPlistFile /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist SpeakLine-Info.plist
+s330497939.608605
+e330497939.672704
+r1
+xProcessInfoPlistFile
+x/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist
+xSpeakLine-Info.plist
+lSLF07#2@28"Process SpeakLine-Info.plist330497939#330497939#0(0"0(0#0#52"/Users/eric/Documents/SpeakLine/SpeakLine-Info.plist8651504192#295"    cd /Users/eric/Documents/SpeakLine    builtin-infoPlistUtility SpeakLine-Info.plist -genpkginfo /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/z3/z32Op8kWEaCTu083Vr+OoU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SpeakLine_Prefix-cpbyrwjgcaucmpgogtbkolkqywko/SpeakLine_Prefix.pch.gch SpeakLine_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330497940.105534
+e330497944.448660
+r1
+xProcessPCH
+x/var/folders/z3/z32Op8kWEaCTu083Vr+OoU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SpeakLine_Prefix-cpbyrwjgcaucmpgogtbkolkqywko/SpeakLine_Prefix.pch.gch
+xSpeakLine_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SpeakLine_Prefix.pch330497940#330497944#0(0"0(0#0#52"/Users/eric/Documents/SpeakLine/SpeakLine_Prefix.pch8650866784#1324"    cd /Users/eric/Documents/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/eric/Documents/SpeakLine/build/Debug -I/Users/eric/Documents/SpeakLine/build/Debug/include -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/eric/Documents/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -c /Users/eric/Documents/SpeakLine/SpeakLine_Prefix.pch -o /var/folders/z3/z32Op8kWEaCTu083Vr+OoU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SpeakLine_Prefix-cpbyrwjgcaucmpgogtbkolkqywko/SpeakLine_Prefix.pch.gch0#
+
+CTouch /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app
+s330497979.139087
+e330497979.161812
+r1
+xTouch
+x/Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app
+lSLF07#2@63"Touch /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app330497979#330497979#0(0"0(0#0#0"8641274464#119"    cd /Users/eric/Documents/SpeakLine    /usr/bin/touch -c /Users/eric/Documents/SpeakLine/build/Debug/SpeakLine.app0#
+
